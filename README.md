@@ -51,6 +51,8 @@ The study concludes that nightly sleep duration significantly impacts both BMI a
 
 ## Reference List
 A comprehensive list of references is included in the full project documentation.
+   - /Final Report.docs
+   - R & Html files
 
 ---
 
