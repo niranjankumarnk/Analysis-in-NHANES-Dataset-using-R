@@ -54,10 +54,6 @@ A comprehensive list of references is included in the full project documentation
 
 ---
 
-## Files in this Repository
-- `data/`: Contains the NHANES dataset (10,000 observations, 76 variables).
-- `analysis/`: Python scripts and Jupyter notebooks for statistical analysis, hypothesis testing, and data visualization.
-- `results/`: Output files including regression summaries, ANOVA tables, and visualizations.
 
 ## How to Use
 1. Clone this repository:
